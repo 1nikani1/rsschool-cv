@@ -12,3 +12,5 @@ I am 24 years old and I live in St. Petersburg. I am interested in front-end dev
 * Russian - native speaker
 * English - B1
 * Franch - A2
+## Contacts
+Discord - 1nikani1
